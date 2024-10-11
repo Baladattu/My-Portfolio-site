@@ -1,14 +1,17 @@
 # My Portfolio Site
 
-This is a personal portfolio website to showcase my projects, skills, and resume. It’s built using HTML, CSS, and JavaScript.
+This is a personal portfolio website created to showcase my projects, skills, and experience. It includes sections for projects, a contact form, and an "about me" page.
 
 ## Features
-- Home page introducing myself
-- Projects page displaying my work
-- Contact form to get in touch with me
+- Home page introducing myself.
+- Projects page displaying work samples.
+- Functional contact form.
+- Mobile-friendly design.
 
-## Setup
-1. Clone the repository: `git clone https://github.com/yourusername/my-portfolio-site.git`
-2. Navigate into the project directory: `cd my-portfolio-site`
-3. Open the `index.html` file in a web browser to view the site locally.
+## Installation
 
+Follow the steps below to set up the project on your local machine:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/my-portfolio-site.git
